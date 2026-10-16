@@ -17,7 +17,7 @@ No prior AI or coding experience is required.
 
 Please have these ready before the first session:
 
-- **An AI account.** A free Claude account ([claude.ai](https://claude.ai)) or a personal Google account for Gemini (you must be 18 or older). Work and school Google accounts cannot use skills in the Gemini app yet. If your company uses ChatGPT or Microsoft Copilot, bring that login too.
+- **An AI account.** A free Claude ([claude.ai](https://claude.ai)) or ChatGPT ([chatgpt.com](https://chatgpt.com)) account works. If your company provides Microsoft Copilot or Gemini, bring that login too.
 - **A free GitHub account** ([github.com](https://github.com)) for the demos on Days 2 and 3.
 - **A laptop with a webcam** and Chrome or Edge.
 - **LM Studio** ([lmstudio.ai](https://lmstudio.ai)) installed for Day 1.
@@ -27,15 +27,15 @@ Please have these ready before the first session:
 
 # Workshop Sessions
 
-## Day 1: Prompting, LLMs, and AI Skills
-**Theme:** Get reliable answers from AI and build a reusable skill for your job
+## Day 1: Prompting, LLMs, and AI Projects
+**Theme:** Get reliable answers from AI and build a reusable AI project for your job
 
 | Time | Block |
 |---|---|
 | 0:00 to 0:10 | Welcome, introductions, and agenda |
 | 0:10 to 0:30 | The state of manufacturing: what keeps you up at night, the workforce outlook, and the adoption gap |
 | 0:30 to 0:55 | Prompting: hallucinations, safe use at work, and the RTFC framework (Role, Task, Format, Constraints) |
-| 0:55 to 1:55 | AI skills: build and test a skill for one of your real problems |
+| 0:55 to 1:55 | AI projects: build and test a project for one of your real problems |
 | 1:55 to 2:00 | Break |
 | 2:00 to 2:55 | Local LLMs with LM Studio (led by Clayton) |
 | 2:55 to 3:00 | Wrap up and questions |
@@ -46,34 +46,39 @@ Topics covered:
 - AI fundamentals and the three areas we cover in this training: language, vision, and data
 - Spotting hallucinations and using AI safely with company information
 - The RTFC prompting framework
-- AI skills: reusable instructions plus reference files in one SKILL.md file
-- Hands-on: building a skill for SOPs, troubleshooting, or reporting
+- AI projects: saved instructions plus your documents, in the AI tool you already use
+- Hands-on: building a project for SOPs, troubleshooting, or reporting
+- Bonus: turning your project into a portable skill
 - Local LLMs: running a model on your own computer with LM Studio
 
 **Slides**
 
 [Day 1 Slides (PDF)](slides/Day1-Prompting-and-Skills.pdf)
 
-### AI Skill Workshop
+### AI Project Workshop
 
 **Theme:** Package your instructions and documents once so the AI gives consistent answers every time
 
 1. Participant Workbook
 [Access the Day 1 Workbook](https://docs.google.com/document/d/1sAQ36oFIaEUiQMzUd1GpMWeI_vuQgNEs/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
-2. Demo Skill and Reference Material
-We will build the [mill-maintenance-helper skill](skill/mill-maintenance-helper.zip) together. Its reference file is this technical manual:
+2. Demo Project and Reference Material
+We will build a mill maintenance helper together. Its reference file is this technical manual:
 [Bridgeport Knee Mill Technical Manual](https://bridgeportmachinetools.com/wp-content/uploads/KneeMill-Complete-Manual.pdf)
 
-3. Where Your Skill Works
+3. Where to Build Your Project
 
-| Tool | How to use your skill |
+| Tool | How to build it |
 |---|---|
-| Claude (free plan works) | Settings > Capabilities: turn on Code execution. Then Customize > Skills > + > Create skill > Upload a skill (ZIP) |
-| Gemini (personal Google account) | Settings > Skills > Upload your SKILL.md or ZIP |
-| ChatGPT | Plugins > + > chat with Plugin Creator. Availability depends on your plan. |
-| Microsoft 365 Copilot (license required) | In Cowork: + > Customize > Skills > Add > Upload skill |
-| Any other tool | Paste your SKILL.md at the top of a new chat, attach your files, then ask your question |
+| Claude (free plan works) | Projects > + New Project > Set project instructions, then add files |
+| ChatGPT (free plan works) | New project > Project settings for instructions, then add files (5 files on Free) |
+| Microsoft Copilot | Notebooks > New notebook > add files under References > ... > Instructions |
+| Gemini, work or school account | Gems > New Gem > instructions, then Knowledge > Add files |
+| Gemini, personal account | Settings > Skills > Create manually |
+| Any other tool | Paste your instructions at the top of a new chat and attach your files |
+
+4. Bonus: Turn It Into a Skill
+Gems and custom GPTs are turning into skills. Download the demo skill, [mill-maintenance-helper.zip](skill/mill-maintenance-helper.zip), and see section 2.5 of the workbook to turn your own project into one.
 
 ### Local LLMs with LM Studio
 
@@ -101,7 +106,7 @@ Topics covered:
 - Hands-on: training a defect detection model with **Teachable Machine**
 - Testing your model live with a webcam
 - Vibe coding with Google AI Studio: describe an app, test it, and improve it
-- Deciding when you need a prompt, a skill, or an app
+- Deciding when you need a prompt, a project, or an app
 
 **Slides**
 
