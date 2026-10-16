@@ -59,7 +59,7 @@ Topics covered:
 **Theme:** Package your instructions and documents once so the AI gives consistent answers every time
 
 1. Participant Workbook
-[Access the Day 1 Workbook](https://docs.google.com/document/d/1LVCzKPxFjhXO0Dm372fXp9H0M8xEOp1Mbz0Kpkjs0PE/edit?usp=sharing)
+[Access the Day 1 Workbook](https://docs.google.com/document/d/1sAQ36oFIaEUiQMzUd1GpMWeI_vuQgNEs/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
 
 2. Demo Skill and Reference Material
 We will build the [mill-maintenance-helper skill](skill/mill-maintenance-helper.zip) together. Its reference file is this technical manual:
