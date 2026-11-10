@@ -134,19 +134,19 @@ Topics covered:
 ## Day 3: Claude SMB Workshop
 **Theme:** Put Claude to work on one real job from your shop, with a workspace that remembers how you work
 
-Day 3 is a Claude SMB Workshop, run by the GRCC AI Incubator in partnership with The Right Place and Muskegon Community College.
+Day 3 is a Claude SMB Workshop, run by the GRCC AI Incubator in partnership with The Right Place and Muskegon Community College. Tuesday, November 10, 9:00 AM to 12:00 PM.
 
 | Time | Block |
 |---|---|
-| 0:00 to 0:15 | Welcome, the mental model, the 4Ds framework, and data safety |
-| 0:15 to 0:50 | Demo: how I run my work with Claude, using folders called HQs |
-| 0:50 to 1:15 | Hands-on: set up Claude and build your workspace |
-| 1:15 to 1:35 | Hands-on: build the Example Equipment Co. HQ and run the demo prompts |
-| 1:35 to 1:40 | Break |
-| 1:40 to 2:10 | Hands-on: build an HQ for the one job you would hand off first |
-| 2:10 to 2:25 | Hands-on: connect a tool |
-| 2:25 to 2:50 | The Claude for Small Business plugin |
-| 2:50 to 3:00 | Keep it sharp, questions, and survey |
+| 9:00 to 9:15 | Welcome, the mental model, the 4Ds framework, and data safety |
+| 9:15 to 9:50 | Demo: how I run my work with Claude, using folders called HQs |
+| 9:50 to 10:15 | Hands-on: set up Claude and build your workspace |
+| 10:15 to 10:35 | Hands-on: build the Example Equipment Co. HQ and run the demo prompts |
+| 10:35 to 10:40 | Break |
+| 10:40 to 11:10 | Hands-on: build an HQ for the one job you would hand off first |
+| 11:10 to 11:25 | Hands-on: connect a tool |
+| 11:25 to 11:50 | The Claude for Small Business plugin |
+| 11:50 to 12:00 | Keep it sharp, questions, and survey |
 
 Topics covered:
 
